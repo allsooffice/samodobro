@@ -1,0 +1,7 @@
+Options FollowSymLinks
+RewriteEngine On
+
+
+RewriteRule zapisy zapisy.php [L]
+RewriteRule o-nas o-nas.php [L]
+
